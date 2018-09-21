@@ -8,7 +8,7 @@ My Master Thesis, written in 2015, at the Eisenbahnbetriebsfeld Darmstadt
 ## Implementation Highlights:
 
 ![Screenshot](https://raw.githubusercontent.com/lucasrothamel/master-thesis/master/gfx/screenshot.png)
-![Timetable Display](https://raw.githubusercontent.com/lucasrothamel/master-thesis/master/gfx/path/zwl.png)
+![Timetable Display](https://raw.githubusercontent.com/lucasrothamel/master-thesis/master/gfx/zwl.png)
 
 
 ## Abstract
