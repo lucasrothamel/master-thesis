@@ -6,8 +6,12 @@ My Master Thesis, written in 2015, at the Eisenbahnbetriebsfeld Darmstadt
  
  
 ## Implementation Highlights:
+implemented in Scala using Java-AWT
 
+### Screenshot of the implemented Train Control Tool
 ![Screenshot](https://raw.githubusercontent.com/lucasrothamel/master-thesis/master/gfx/screenshot.png)
+
+#### showing the generated timetable:
 ![Timetable Display](https://raw.githubusercontent.com/lucasrothamel/master-thesis/master/gfx/zwl.png)
 
 
