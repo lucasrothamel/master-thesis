@@ -4,6 +4,13 @@ Optimisation of the automated provision of trains in the Eisenbahnbetriebsfeld (
 
 My Master Thesis, written in 2015, at the Eisenbahnbetriebsfeld Darmstadt
  
+ 
+## Implementation Highlights:
+
+![Screenshot](https://raw.githubusercontent.com/lucasrothamel/master-thesis/master/gfx/screenshot.png)
+![Timetable Display](https://raw.githubusercontent.com/lucasrothamel/master-thesis/master/gfx/path/zwl.png)
+
+
 ## Abstract
 The Eisenbahnbetriebsfeld Darmstadt is a simulation lab for railway operations based on a model railway, on which different seminars take place. Before a seminar, the required trains need to be driven to their respective starting tracks. The existing semi-automatic provision of trains require an active technician, and it can take a considerable amount of time until all trains have been provisioned on their needed tracks.
 Goal of this work is to develop a new automatic provision tool. This shall require as few interventions of the technician as possible whilst shortening the required driving time. For this, the lab was accurately surveyed, such that precise, conflict-free timetables for provision can be calculated. Many specific properties of the EBD were exploited in order to calculate good solutions for this NP-Complete Problem. A new driving controller was implemented which can drive a given timetable considerably faster than the existing, realistic driving controller. In the process it drops or reduces some side constraints present in real railway operations, which can in turn be dropped or removed from the side constraints of a valid timetable.
